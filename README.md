@@ -1,4 +1,4 @@
-<h1> Hi, I'm Alex! </s1>
+# Hi, I'm Alex!
 
 <!--
 **AlexanderStephenThompson/AlexanderStephenThompson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
