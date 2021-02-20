@@ -19,4 +19,16 @@ Here are some ideas to get you started:
 
 ![Alexanders's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderStephenThompson&show_icons=true&theme=tokyonight)
 
-<!-- Include acclaim badges -->
+<!-- Include acclaim badges 
+
+Planned pinned repos
+ - Learning Git & GitHub
+ - Programming
+ - Data Analytics
+ - Home Projects
+ - IT Infrastructure
+ - World Building
+
+
+-->
+
