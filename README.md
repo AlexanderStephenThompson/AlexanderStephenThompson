@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 <!-- Include acclaim badges 
 
 Planned pinned repos
- - Learning Git & GitHub
- - Programming
- - Data Analytics
- - Home Projects
- - IT Infrastructure
- - World Building
 
+ - Programming (Foundations, Python, C#, web development, practical projects)
+ - Learning Git & GitHub
+ - Community gardens and kitchen
+ - Data Analytics (Self made, existing)
+ - 3D stuff (Blender / Unity)
+ - IT Infrastructure (Home / Small business)
 
 -->
 
