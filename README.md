@@ -19,16 +19,4 @@ Here are some ideas to get you started:
 
 ![Alexanders's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderStephenThompson&show_icons=true&theme=tokyonight)
 
-<!-- Include acclaim badges 
-
-Planned pinned repos
-
- - Programming (Foundations, Python, C#, web development, practical projects)
- - Learning Git & GitHub
- - Community gardens and kitchen
- - Data Analytics (Self made, existing)
- - 3D stuff (Blender / Unity)
- - IT Infrastructure (Home / Small business)
-
--->
-
+<!-- Include acclaim badges? -->
