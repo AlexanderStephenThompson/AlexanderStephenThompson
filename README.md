@@ -1,4 +1,4 @@
-# Hi, I'm Alex and I'm a data enthusiast!
+# Hi, I'm Alex and I'm a Data Enthusiast!
 ![Badge](https://img.shields.io/badge/Learning-React-yellow)
 ![Badge](https://img.shields.io/badge/Portfolio-Somewhere.com-Blue)
 ![Badge](https://img.shields.io/badge/Current_Project-GitHub_Guide-blue)
