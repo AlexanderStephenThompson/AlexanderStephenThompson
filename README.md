@@ -29,4 +29,4 @@ I'm a data enthusiast who admires working with data's full journey so that it's 
 
 
 ![Alexanders's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderStephenThompson&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderStephenThompson&layout=compact&theme=tokyonight)](https://github.com/AlexanderStephenThompson/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderStephenThompson&layout=compact&theme=tokyonight)
