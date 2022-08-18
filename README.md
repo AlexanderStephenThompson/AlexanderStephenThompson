@@ -1,4 +1,5 @@
-# Hi, I'm Alex and I'm a Data Enthusiast!
+<h1> Hi, I'm Alex and I'm a Data Enthusiast! </h1>
+
 ![Badge](https://img.shields.io/badge/Learning-React-yellow)
 ![Badge](https://img.shields.io/badge/Portfolio-Somewhere.com-Blue)
 ![Badge](https://img.shields.io/badge/Current_Project-GitHub_Guide-blue)
@@ -26,7 +27,6 @@ I'm a data enthusiast who admires working with data's full journey so that it's 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 <hr>
-
 
 ![Alexanders's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderStephenThompson&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderStephenThompson&layout=compact&theme=tokyonight)
