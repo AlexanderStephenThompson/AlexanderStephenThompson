@@ -5,6 +5,7 @@
 
 I'm a data enthusiast who admires working with data's full journey so that it's captured, maintained, and presented in a way to gain the best actionable insights at any given moment. I enjoy having the opportunity learn something new with every project I encounter and develop new domain knowledge with whatever I may be working on. Personally, I think working with data is an extremely fulfilling experience since I get to use a combination of technical knowledge and a creative skillset to empower others with knowledge so that we can all be better off.
 
+<hr>
 
 <h3>Tools for success</h3>
 
@@ -25,7 +26,6 @@ I'm a data enthusiast who admires working with data's full journey so that it's 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-<hr>
 
 ![Alexanders's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderStephenThompson&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderStephenThompson&layout=compact&theme=tokyonight)
