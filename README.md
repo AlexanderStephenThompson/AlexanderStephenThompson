@@ -53,5 +53,5 @@ I'm a data enthusiast who admires working with data's full journey so that it's 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-![Alexanders's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderStephenThompson&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderStephenThompson&layout=compact&theme=tokyonight)
+<!-- ![Alexanders's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderStephenThompson&show_icons=true&theme=tokyonight) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderStephenThompson&layout=compact&theme=tokyonight) -->
