@@ -31,5 +31,5 @@ I'm a data enthusiast who admires working with data's full journey so that it's 
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
-<!-- [Alexanders's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderStephenThompson&show_icons=true&theme=tokyonight) -->
-<!-- [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderStephenThompson&layout=compact&theme=tokyonight) -->
+![Alexanders's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderStephenThompson&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderStephenThompson&layout=compact&theme=tokyonight)
