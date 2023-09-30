@@ -3,7 +3,9 @@
 ![Badge](https://img.shields.io/badge/Learning-Data_Science_Foundations-yellow)
 ![Badge](https://img.shields.io/badge/Current_Project-Public_Portfolios-blue)
 
-I'm a data enthusiast who admires working with data's full journey so that it's captured, maintained, and presented in a way to gain the best actionable insights at any given moment. I enjoy having the opportunity learn something new with every project I encounter and develop new domain knowledge with whatever I may be working on. Personally, I think working with data is an extremely fulfilling experience since I get to use a combination of technical knowledge and a creative skillset to empower others with knowledge so that we can all be better off.
+I specialize in the convergence of data analytics, data science modeling, and graphic design to craft harmonic data-driven insights that are not just informative but also intuitive and visually compelling. For me, data is not just about numbers; it's a resource to uncover the truth and present it in a way that's intuitive, easy to understand, and transparent in its conclusions. 
+
+My purpose is to empower individuals and businesses alike with the ability to make data-driven decisions. Whether it's aiding individuals in overcoming everyday challenges or delivering valuable insights to businesses, I’m dedicated to providing guidance that leads to more successful outcomes. I find immense satisfaction in making a positive impact in the world since knowledge isn’t power until it’s applied. 
 
 <hr>
 
