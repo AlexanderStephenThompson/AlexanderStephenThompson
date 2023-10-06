@@ -1,7 +1,9 @@
 <h1> Hi, I'm Alex and I'm a Data Enthusiast! </h1>
 
-![Badge](https://img.shields.io/badge/Learning-Data_Science_Foundations-yellow)
-![Badge](https://img.shields.io/badge/Current_Project-Public_Portfolios-blue)
+![Badge](https://img.shields.io/badge/Current_Focus-Design-blue)
+
+<!-- ![Badge](https://img.shields.io/badge/Learning-Data_Science_Foundations-yellow) -->
+<!-- ![Badge](https://img.shields.io/badge/Current_Project-Public_Portfolios-blue) -->
 
 I specialize in the unique convergence of data analytics, user interfaces, and graphic design to craft harmonic data-driven insights that are not just informative but also intuitive and visually compelling. For me, data is not just about numbers; it's a resource to uncover the truth and present it in a way that's intuitive, easy to understand, and transparent in its conclusions.
 
