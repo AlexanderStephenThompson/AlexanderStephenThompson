@@ -9,10 +9,10 @@ My purpose is to empower individuals and businesses alike with the ability to ma
 
 <hr>
 
-<h3>Tools for success</h3>
+<h2>Tools for success</h2>
 <!-- https://github.com/Ileriayo/markdown-badges -->
 
-<h5>Engineering</h5>
+<h4>Engineering</h4>
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -25,7 +25,7 @@ My purpose is to empower individuals and businesses alike with the ability to ma
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-<h5>Analytics</h5>
+<h4>Analytics</h4>
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -37,7 +37,7 @@ My purpose is to empower individuals and businesses alike with the ability to ma
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 
-<h5>Presentation</h5>
+<h4>Presentation</h4>
 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
